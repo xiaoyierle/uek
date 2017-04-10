@@ -1,0 +1,362 @@
+*{
+	border: 0;
+	margin: 0;
+	font-family: "苹方","微软雅黑", "Helvetica";
+	text-decoration: none;
+}
+.body{
+	font-size: 16px;
+	font-family: helvetica;
+	overflow-x: hidden;
+	font-family: "苹方","微软雅黑", "Helvetica";
+}
+.header{
+	background: #007be3;
+	overflow: hidden;
+	height: 1.3rem;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+}	
+.header .box{
+	width: 30%;
+	height: 100%;
+	margin: 0 auto;
+	/*background: red;*/
+}
+.header .box .logo img{
+	display: block;
+	margin: 0 auto;
+	width: 1rem;
+	float: left;
+	margin-top: 0.15rem;
+}
+.header .box .logo{
+	text-align: center;
+	/*height: 100%;*/
+	/*width: 100%;*/
+	/*width: 30%;*/
+}
+.header .box h3{
+	font-size:0.65rem;
+	display: block;
+	float: left;
+	color: #fff;
+	line-height: 100%;
+	margin-left: 5%;
+	line-height: 1.3rem;
+}
+.tel{
+	height: 1.05rem;
+	background: #47afff;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 1;
+}
+.tel>form{
+	border: 0;
+	padding: 0;
+	outline: 0;
+	list-style: none;
+	margin: 0;
+	height: 1.05rem;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.tel>form>input:first-child{
+	margin: 0;
+	width: 7.86rem;
+	height: 0.82rem;
+	border: 0;
+	padding: 0;
+	outline: 0;
+	list-style: none;
+	margin-top: 0;
+	border-radius: 0.1rem;
+	position: absolute;
+	top: 0.13rem;
+	left: 0.3rem;
+	color: #ccc;
+}
+.tel>form>input:nth-child(2){
+	display: block;
+	margin: 0;
+	width: 2.07rem;
+	height: 0.75rem;
+	border: 0;
+	padding: 0;
+	outline: 0;
+	list-style: none;
+	margin-top: 0;
+	border-radius: 0.15rem;
+	position: absolute;
+	top: 0.17rem;
+	left:8.43rem;
+	background: rgb(3, 21, 155);
+	color: #fff;
+}
+.tel>form>div{
+	display:block;
+	background-image: url(../img/icon.png);
+	background-repeat: no-repeat;
+	background-size: 3rem;
+	position: absolute;
+	width: 0.7rem;
+	height: 0.7rem;
+	left: 7rem;
+	top:0.19rem;
+	border: 0;
+}
+.banner .swiper-container{
+	width: 100%;
+	height: 6rem;
+}
+.banner .swiper-container img{
+	background: url(../img/banner_02.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.content>ul{
+	padding: 0;
+	margin: 0;
+	height: 7rem;
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+	background: #F5F6FA;
+}
+.content>ul>li{
+	width: 2.26rem;
+	height: 2.8rem;
+	/*background: red;*/
+	font-size: 0.33rem;
+	text-align: center;
+	font-family: "苹方","微软雅黑", "Helvetica";
+}
+.content>ul>li>a>div{
+	width: 1.5rem;
+	height: 1.5rem;
+	border-radius: 0.35rem;
+}
+.content>ul>li .li1{
+	background: #fff url(../img/shouye6.png) 0 0 no-repeat;
+  	background-size: 3.01rem;
+}
+.content>ul>li .li2{
+	background: #fff url(../img/shouye6.png) -1.55rem 0 no-repeat;
+  	background-size: 3.01rem;
+}
+.content>ul>li .li3{
+	background: #fff url(../img/shouye6.png) 0.2257rem -1.65rem no-repeat;
+  	background-size: 3.01rem;
+}
+.content>ul>li .li4{
+	background: #fff url(../img/ufo.png)  no-repeat;
+  	background-size: 100%;
+}
+.content>ul>li .li5{
+	background: #fff url(../img/shouye6.png) -1.55rem -1.65rem no-repeat;
+  	background-size: 3.01rem;
+}
+.content>ul>li .li6{
+	background: #fff url(../img/shouye6.png) 0 -5rem no-repeat;
+  	background-size: 3.01rem;
+}
+.content>ul>li .li7{
+	background: #fff url(../img/shouye6.png) 0.1rem -3.3rem no-repeat;
+  	background-size: 3.01rem;
+}
+.content>ul>li .li8{
+	background: #fff url(../img/shouye6.png) -1.47rem 0 no-repeat;
+  	background-size: 3.01rem;
+}
+.content>ul>li>a{
+	display: block;
+	padding-left: 0.38rem;
+	padding-top: 0.36rem;
+	width: 2.26rem;
+	height: 2.26rem;
+	box-sizing: border-box;
+	background: white;
+	border-radius: 0.35rem;
+	margin-bottom: 0.2rem;
+}
+.sever{
+	font-family: "苹方","微软雅黑", "Helvetica";
+	
+}
+.sever>ul{
+	margin: 0;
+	padding: 0;
+}
+.sever .title{
+	height:0.92rem;
+	font-size: 0.32rem;
+	text-align: center;
+	line-height: 0.92rem;
+	color: #1378ba;
+	border-bottom: 1px solid #F5F6FA;
+}
+.sever .col-1{
+	/*width: 100%;*/
+    height: 3.12rem;
+    border-bottom: 1px solid #e8e8e8;
+    list-style: none;
+}
+.sever>ul{
+	list-style: none;
+}
+.sever .col-1 li{
+	border-right: 1px solid #e8e8e8;
+	float: left;
+	/*background: red;*/
+	height: 100%;
+	box-sizing: border-box;
+	padding: 0.57rem 0rem 0.72rem 0.24rem;
+}
+.sever .col-1 li:last-child{
+	border-right: 0;
+	
+}
+.sever .col-1 li:last-child{
+	float: left;
+	/*background: red;*/
+	height: 100%;}
+.sever>.col-1>li>a>div{
+	float: left;
+	height: 100%;
+	/*background: cyan;*/
+}
+.sever>.col-1>li>a>div>h2{
+	font-size: 0.34rem;
+    font-weight: normal;
+    color: #000000;
+}
+.sever>.col-1>li>a>div>h3{
+	font-size: 0.27rem;
+    font-weight: normal;
+    color: #999999;
+}
+.sever>.col-1>li>a>div:last-child{
+	width: 1.9rem;
+    height: 100%;
+    float: left;
+    background: #fff url(../img/shouye6.png) -0.1rem -6.62rem no-repeat;
+    background-size: 3.01rem;
+}
+.sever>.col-1>li:last-child>a>div:last-child{
+	width: 1.9rem;
+    height: 100%;
+    float: left;
+    background: #fff url(../img/shouye6.png) -0.1rem -8rem no-repeat;
+    background-size: 2.7rem;
+}
+.sever .col-2 li .col-2-a .left{
+	background: url(../img/shouye_01.png) center center no-repeat;
+    background-size: cover;
+    width: 0.95rem;
+    height: 100%;
+    float: left;
+}
+.sever .col-2 li:nth-child(2) .col-2-a .left{
+	background: url(../img/shouye_02.png) center center no-repeat;
+    background-size: cover;
+    width: 0.95rem;
+    height: 100%;
+    float: left;
+}
+.sever .col-2 li:nth-child(3) .col-2-a .left{
+	background: url(../img/shouye_03.png) center center no-repeat;
+    background-size: cover;
+    width: 0.95rem;
+    height: 100%;
+    float: left;
+}
+.sever .col-2{
+    width: 100%;
+    height: 1.88rem;
+    border-bottom: 1px solid #e8e8e8;
+}
+.sever .col-2 li{
+	float: left;
+    height: 100%;
+    border-right: 1px solid #e8e8e8;
+    padding: 0.602rem 0 0.5rem 0.3rem;
+    box-sizing: border-box;
+}
+.sever .col-2 li a{
+	display: block;
+	height: 100%;
+	text-decoration: none;
+}
+.sever .col-2 li a .right h2 {
+    font-size: 0.34rem;
+    color: #000000;
+    font-weight: normal;
+}
+.sever .col-2 li a .right h3 {
+    font-size: 0.27rem;
+    font-weight: normal;
+    color: #999999;
+}
+.footer{
+	height: 1.28rem;
+	width: 100%;
+	box-sizing: border-box;
+    background-color: #ffffff;
+    margin-top: 0.3rem;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    box-shadow: 0 0 0.08rem rgba(0,0,0,0.1);
+    z-index: 999;
+    font-family: "苹方","微软雅黑", "Helvetica";
+}
+.footer .contact-list{
+	width: 100%;
+    height: 100%;
+    background: #e7e7e7;
+}
+.footer .contact-list a{
+	width: 30%;
+    height: 1.28rem;
+    float: left;
+    text-decoration: none;
+}
+.footer .contact-list a div{
+	width: 100%;
+    height: 100%;
+    font-size: 0.34rem;
+    color: #000;
+    text-align: center;
+    line-height: 1.28rem;
+    background: #e7e7e7;
+}
+.footer .contact-list .phone{
+    width: 40%;
+    height: 1.28rem;
+    position: relative;
+    z-index: 99999;
+    box-shadow: 0 0 0.12rem rgba(255,126,0,0.1);
+    margin-top: -0.15rem;
+}
+.footer .contact-list .phone .part2{
+    background-color: #ff8d12;
+    border-radius: 0.08rem;
+    color: #fff;
+    text-align: center;
+    box-shadow: 0px 0px 0.15rem #ff8d12;
+}
+.zhan{
+	width: 100%;
+	height: 1.28rem;
+}

@@ -1,0 +1,555 @@
+
+.list-banner .swiper-list-27-1{
+	background: url(../img/phpbanner.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	display: block;
+	width: 100%;
+	height: 7.5rem;
+	position: relative;
+}
+.list-banner .swiper-list-27-1 div img{
+	background:none;
+}
+.ui .ui1H h2 {
+    margin-top: 0.6rem;
+}
+.list-banner-27-1 a {
+    display: block;
+    width: 3.16rem;
+    height: 0.84rem;
+    background: url(../img/phpbtn.png) center center no-repeat;
+    background-size: 100%;
+    position: absolute;
+    bottom: 0.6rem;
+    left: 4.06rem;
+    color: #fff;
+    text-align: center;
+    line-height: 0.84rem;
+    font-size: 0.42rem;
+}
+.ui .ui1H .uiH2 {
+    width: 1.62rem;
+    height: 1.26rem;
+    position: absolute;
+    top: 0.45rem;
+    left: 3.0rem;
+    background: url(../img/titleL.png) center center no-repeat;
+    background-size: 100%;
+    z-index: 0;
+}
+.ui .ui1H{
+	position: relative;
+}
+.titlenum {
+    width: 0.99rem;
+    height: 0.90rem;
+    position: absolute;
+    left: 2.5rem;
+    top: 0.75rem;
+}
+.titlenum1 {
+    background: url(../img/phptitle1.png) center center no-repeat;
+    background-size: 100%;
+}
+.uiH2R {
+    width: 1.71rem;
+    height: 0.09rem;
+    position: absolute;
+    right: 3.5rem;
+    bottom: 0.42rem;
+    background: url(../img/titleR.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui1{
+	width: 100%;
+	height:9.5rem;
+    position: relative;
+}
+.webdy {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding: 0.6rem;
+    padding-top: 0.66rem;
+    border: 1px solid #1bbf99;
+    border-top: 0;
+    background: none;
+    box-sizing: border-box;
+}
+.ui1 .ui1con .ui1cont {
+    width:100%;
+    height: 7.2rem;
+    border: 0;
+    background: #f5f5f5;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 0;
+  
+}
+.ui1con {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    
+}
+.php1d1 {
+    width: 9.2rem;
+    height: 0.09rem;
+    border: 1px solid #1bbf99;
+    border-top: 0;
+    margin: 0 auto;
+}
+.php1d2{
+	width: 8.5rem;
+}
+.ui1 .ui1con .ui1cont p {
+    color: #333;
+    font-size: 0.36rem;
+    line-height: 0.6rem;
+    margin-top: 0.24rem;
+   letter-spacing:0;
+   text-align: left;
+}
+.ui .ui1H .uiH20 {
+    left:2.4rem;
+}
+.ui .ui1H .uiH2R0 {
+    right: 2.6rem;
+}
+.titlenum0 {
+    left: 2rem;
+    background: url(../img/phptitle2.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui2 {
+    margin-top:0rem;
+    height: 15rem;
+}
+.ui2box{
+	height: 13rem;
+}
+.ui2 .ui1H .uiH22 {
+    left: 3rem;
+}
+.titlenum2 {
+    left: 2.6rem;
+    background: url(../img/phptitle3.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui2bfb-27{
+	width: 10.08rem;
+    height: 6.5rem;
+    margin: 0 auto;
+    margin-top: 1.05rem;
+    overflow: hidden;
+}
+.bpbbfb {
+    width: 4.93rem;
+    height:6.38rem;
+    border: 1px solid #fff;
+    float: left;
+}
+.bpbbfbr{
+	float: right;
+}
+.ui2box p {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    line-height: 0.6rem;
+    font-size: 0.32rem;
+    color: #fff;
+    margin-top: 0.3rem;
+}
+.bpbbfb p span {
+    color: #e47749;
+}
+.bpbbfb img {
+    width: 4.37rem;
+    /*height:1.12rem;*/
+}
+.phpjs {
+    width: 4.93rem;
+    height: 2.22rem;
+    border-top: 1px solid #fff;
+    font-size: 0.32rem;
+    text-align: center;
+    line-height: 0.45rem;
+    color: #fff;
+    padding: 0.3rem 0.15rem;
+    box-sizing: border-box;
+    /*letter-spacing: -1px;*/
+}
+.ui4{
+	background: #1b1d32;
+    padding-bottom: 0.75rem;
+    height: 17rem;
+}
+.titlenum3 {
+    left: 2.1rem;
+    background: url(../img/phptitle4.png) center center no-repeat;
+    background-size: 100%;
+}
+.titlenum4 {
+	left: 2.1rem;
+    background: url(../img/phptitle5.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui4con {
+    position: relative;
+    margin-top: 0.6rem;
+    height: 15.05rem;
+}
+.ui4con .ui4-web4ul1 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    list-style: none ;
+}
+.ui4con ul li {
+    width: 100%;
+    height: 2.17rem;
+    overflow: hidden;
+    padding: 0.1rem;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.php41{
+    width: 0.77rem;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+}
+.phpxuhao {
+    width: 0.77rem;
+    height: 0.77rem;
+    border: 2px solid #ffd300;
+    text-align: center;
+    line-height: 0.75rem;
+    font-size: 0.45rem;
+    color: #fff;
+    box-sizing: border-box;
+}
+.php4line {
+    width: 1px;
+    height: 1.39rem;
+    background: #ffd300;
+    margin: 0 auto;
+}
+.php4r {
+    width: 8.65rem;
+    height: 2.14rem;
+    float: left;
+    margin-left: 0.1rem;
+    
+}
+.php4rcon {
+    width: 100%;
+    height: 100%;
+    margin-left: 0;
+}
+.ui41 span {
+    font-size: 0.42rem;
+    color: #ffd300;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui4 .ui4-web4ul1 li p {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 0.15rem;
+    font-size: 0.33rem;
+    color: #fff;
+    line-height: 0.5rem;
+    padding: 0.15rem 0;
+    text-align: justify;
+   	letter-spacing: 0; 
+   	border: 0;
+}
+.phpxuhao2 {
+    border: 2px solid #dd534e;
+}
+.phpxuhao3 {
+    border: 2px solid #87bf7f;
+}
+.phpxuhao4 {
+    border: 2px solid #1fa4db;
+}
+.phpxuhao5 {
+    border: 2px solid #f6ce64;
+}
+.phpxuhao6 {
+    border: 2px solid #a86baa;
+}
+.ui42 span {
+    font-size: 0.42rem;
+   	color: #dd534e;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui43 span {
+    font-size: 0.42rem;
+   	color: #87bf7f;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui44 span {
+    font-size: 0.42rem;
+   	color: #1fa4db;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui45 span {
+    font-size: 0.42rem;
+   	color: #f6ce64;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui46 span {
+    font-size: 0.42rem;
+   	color: #a86baa;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui4 .ui4-web4ul1 .ui42 p {
+    border-top: 1px dashed #dd534e;
+}
+.ui4 .ui4-web4ul1 .ui41 p {
+    border-top: 1px dashed #ffd300;
+}
+.ui4 .ui4-web4ul1 .ui43 p {
+    border-top: 1px dashed #87bf7f;
+}
+.ui4 .ui4-web4ul1 .ui44 p {
+    border-top: 1px dashed #1fa4db;
+}
+.ui4 .ui4-web4ul1 .ui45 p {
+    border-top: 1px dashed #f6ce64;
+}
+.ui4 .ui4-web4ul1 .ui46 p {
+    border-top: 1px dashed #a86baa;
+}
+.ui4con .ui42 {
+    height: 2.6rem;
+}
+.ui42 .php4line {
+    height: 1.81rem;
+}
+.ui4con .ui43 {
+    height: 2.9rem;
+}
+.ui43 .php4line {
+    height: 2.16rem;
+}
+.ui4con .ui44 {
+    height: 2rem;
+}
+.ui44 .php4line {
+    height: 1.43rem;
+}
+.ui4con .ui45 {
+    height: 1.9rem;
+}
+.ui45 .php4line {
+    height: 1.2rem;
+}
+.ui4con .ui46 {
+    height: 2.4rem;
+}
+.ui46 .php4line {
+    height: 1.43rem;
+}
+.titlenum5 {
+    left: 2rem;
+    background: url(../img/phptitle6.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui5{
+	background: #f5f6fa;
+}
+.ui5con-27{
+	height: auto;
+    overflow: hidden;
+    width: 10.04rem;
+    height: 9rem;
+    margin: 0 auto;
+}
+.ui5con-27 ul {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 0;
+    margin-top: 0.4rem;
+    margin-bottom: 0.8rem;
+    box-sizing: border-box;
+    padding: 0;
+    list-style: none;
+}
+.ui5con-27 li {
+    width: 100%;
+    height: 1.4rem;
+    overflow: hidden;
+    margin:0.5rem auto;
+}
+.ui5con-27 li div {
+    color: #333;
+    font-size: 0.32rem;
+    line-height: 1.71rem;
+    padding-left: 1.32rem;
+    box-sizing: border-box;
+}
+.phpzw1 {
+    width: 3.65rem;
+    height: 100%;
+    background: url(../img/phpzw1.png) center center no-repeat;
+    background-size: 100%;
+    margin-left: 1rem;
+    float: left;
+}
+.phpzw2 {
+    width: 3.65rem;
+    height: 100%;
+    background: url(../img/phpzw2.png) center center no-repeat;
+    background-size: 100%;
+    margin-right: 1rem;
+    float: right;
+}
+.phpzw3 {
+    width: 3.65rem;
+    height: 100%;
+    background: url(../img/phpzw3.png) center center no-repeat;
+    background-size: 100%;
+    margin:0 auto;
+}
+.phpzw4 {
+    width: 3.65rem;
+    height: 100%;
+    background: url(../img/phpzw4.png) center center no-repeat;
+    background-size: 100%;
+    margin-left: 0.68rem;
+    float: left;
+    margin-left: 0.8rem;
+}
+.phpzw5 {
+    width: 3.65rem;
+    height: 100%;
+    background: url(../img/phpzw5.png) center center no-repeat;
+    background-size: 100%;
+    margin-left: 0.68rem;
+    float: right;
+    margin-right: 0.8rem;
+}
+.phpzw6 {
+    width: 3.65rem;
+    height: 100%;
+    background: url(../img/phpzw6.png) center center no-repeat;
+    background-size: 100%;
+    margin: 0 auto;
+}
+.titlenum6 {
+    left: 2rem;
+    background: url(../img/phptitle7.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui6{
+	height: 10.5rem;
+	background: #1b1d32;
+}
+.ui6con-27 {
+    margin-top: 1rem;
+    height: auto;
+    overflow: hidden;
+    width: 90%;
+    margin-top: 1.67rem;
+    padding-top: 1rem;
+    margin: 0 auto;
+}
+.php6bot {
+    width: 2rem;
+    height: 4.5rem;
+    float: left;
+    background: url(../img/phpren.png) center center no-repeat;
+    background-size: 100%;
+    position: relative;
+    z-index: 20;
+}
+.web5bot {
+    width: 8.26rem;
+    height: 4.3rem;
+    border: 1px solid #ffd300;
+    border-left: none;
+    float: left;
+    margin-top: 0.16rem;
+    margin-left: -1rem; 
+    /*background: red;*/
+}
+.web5bot ul {
+    width: 8.26rem;
+    height: 4.3rem;
+    overflow: hidden;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.web5bot li {
+    width: 94%;
+    height: 0.84rem;
+    border-bottom: 1px dashed #ffd300;
+    overflow: hidden;
+}
+.web5bot a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    padding-left: 2.25rem;
+    font-size: 0.36rem;
+    line-height: 0.84rem;
+}
+.ui6-btn{
+	margin-top: 5rem;
+}
+.titlenum7 {
+    left: 1.2rem;
+    background: url(../img//phptitle8.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui6 .ui1H .uiH26{
+	left: 1.5rem;
+}
+.ui7{
+	height: 12rem;
+	background: #f5f6fa;
+}
+.ui7 .ui6con{
+	margin: 0;
+	background: none;
+}
+.ui7 p {
+    width: 100%;
+    line-height: 0.36rem;
+    color: #333;
+    text-align: center;
+    font-size: 0.36rem;
+    margin-top: 0.6rem;
+    font-weight: 600;
+}
+.ui7 .submit{
+	margin-top: 1rem;
+}
+.tea-copyright{
+	background: #F5F6FA;
+}

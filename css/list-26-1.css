@@ -1,0 +1,550 @@
+
+.list-banner .swiper-list-26-1{
+	background: url(../img/webbanner.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	display: block;
+	width: 100%;
+	height: 7.2rem;
+}
+.list-banner .swiper-list-26-1 div img{
+	background:none;
+}
+.ui1-list-26{
+	height: 10.98rem;
+}
+.ui1{
+	background:#f5f6fa;
+}
+.ui1H {
+    width: 100%;
+    height: 1.5rem;
+    background: #fff;
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.2);
+    padding: 0.3rem 0;
+    margin: 0 auto;
+    margin-bottom: 0.45rem;   
+}
+.ui div h2{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 10.8rem;
+    height: 0.5rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-size: 0.48rem;
+    color: #333;
+    text-transform: uppercase;
+    margin-top: 0.1rem;
+}
+.ui div h2 span{
+	font-weight: 400;
+}
+.ui div h2:last-child{
+	font-size: 0.465rem;
+	line-height: 0.465rem;
+	margin-top: 0;
+}
+.ui .ui1H .uiH2{
+	width: 4.06rem;
+    height: 0.45rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/ui1lines.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui .ui1con{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.webdy {
+    /*width: 100%;*/
+    height: auto;
+    overflow: hidden;
+    background: url(../img/web1back.png) center center no-repeat;
+    background-size: 100%;
+    padding: 0.4rem;
+}
+.webdy-2 {
+    height: auto;
+    overflow: hidden;
+    background: url(../img/web1backs.png) center center no-repeat;
+    background-size: 100%;
+    padding: 0.4rem;
+}
+.webdy h3{
+	width: 100%;
+	text-transform: uppercase;
+	color: #00c298;
+    font-size: 0.75rem;
+    line-height: 0.9rem;
+}
+.webdy h3 span{
+	color: #00c298;
+	font-size: 0.51rem;
+}
+.webdy h3 span:last-child{
+	color: #ff515c;
+}
+.webdy p{
+	color: #333;
+	letter-spacing: 1px;
+	font-size: 0.36rem;
+	line-height: 0.48rem;
+}
+
+.ui0{
+	background:#f5f6fa;
+}
+.ui2 .ui2H{
+	margin-top: 0.5rem;
+}
+.ui2-list-26{
+	height: 16.55rem;
+	margin-top: 0;
+}
+.ui2box-list-26{
+	margin-top: -0.45rem;
+	padding-top: 1rem;
+	height: 12.5rem;
+}
+.ui2bt-list-26{
+	width: 5.56rem;
+    color: #00c298;
+    border: 0;
+}
+.ui3{
+	background:#f5f6fa;
+	margin-top: -1rem;
+}
+.ui2tiao{
+	width: 5.6rem;
+	height: 1px;
+	/*border: 1px solid #fff;*/
+	background: #fff;
+	box-sizing: border-box;
+	margin-top: 0.1rem;
+}
+.ui2dian{
+	width: 5.6rem;
+	height: 1px;
+	border-top: 1px dashed #fff;
+	margin-top: 0.1rem;
+}
+.ui2bfb{
+	background: url(../img/webbfb.png) center center no-repeat;
+    background-size: 100%;
+    margin-top: 1.05rem;
+}
+.ui2box p{
+	width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+    line-height: 0.6rem;
+    font-size: 0.39rem;
+    color: #fff;
+    margin-top: 0.3rem;
+}
+.ui4 {
+    background: url(../img/webkcback.png) center center repeat;
+    padding-bottom: 0.75rem;
+    height: 21.67rem;
+    overflow: hidden;
+}
+.webline {
+    position: absolute;
+    width: 2px;
+    height: 100%;
+    background: #00a8ff;
+    /*margin-top: -0.4rem;*/
+    left: 0;
+    right: 0;
+    /*top: 0rem;*/
+    margin: auto;
+    margin-top: -0.4rem;
+}
+.web4b {
+    width: 4.6rem;
+    height: 0.9rem;
+    background: #00a8ff;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 3rem;
+}
+.web4b p {
+    width: 3.8rem;
+    height: 0.1rem;
+    border: 1px dashed #fff;
+    margin: 0.07rem;
+    color: #fff;
+    margin-top: 0.07rem;
+    line-height: 0.1rem;
+    text-align: center;
+    font-size: 0.45rem;
+}
+.web4dian {
+    width: 0.24rem;
+    height: 0.24rem;
+    border-radius: 50%;
+    border: 2px solid #00a8ff;
+    background: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.web4dian1 {
+    top: 4.3rem;
+}
+.web4dian2 {
+    top: 6.5rem;
+}
+.web4dian3 {
+    top: 7.15rem;
+}
+.web4dian4 {
+    top: 10.5rem;
+}
+.web4dian5 {
+    top: 10.8rem;
+}
+.web4dian6 {
+    top: 14.4rem;
+}
+.web4dian7 {
+    top: 15.8rem;
+}
+.web4dian8 {
+    top: 20rem;
+}
+
+.ui4con ul {
+    width: 50%;
+    height: auto;
+    overflow: hidden;
+    float: left;
+    margin-top: 1.65rem;
+    margin: 0;
+    padding:0 ;
+    list-style: none;
+}
+.ui4con .web4ul1 div {
+    width: 100%;
+    height: 0.87rem;
+    overflow: hidden;
+    background: url(../img/web4back.png) center center no-repeat;
+    background-size: 4.65rem;
+    background-position: 0rem 0;
+    text-align: right;
+    font-size: 0.45rem;
+    line-height: 0.87rem;
+    color: #fff;
+    font-weight: 600;
+    padding-right:0.5rem;
+    float: left;
+    box-sizing: border-box;	
+}
+.ui4con ul li {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 0rem;
+    padding: 0.1rem;
+    border: 0;
+    background: none;
+    box-sizing: border-box;
+}
+.ui4con .web4ul1 .ui41{
+	margin-top: 3.6rem;
+}
+.ui4con ul li p {
+	display: block;
+    width: 4.5rem;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #00a8ff;
+    font-size: 0.36rem;
+    color: #333;
+    line-height: 0.51rem;
+    padding: 0.24rem;
+    text-align: justify;
+    margin-top: -0.02rem;
+    word-break: break-all;
+    box-sizing: border-box;
+}
+.ui4con .web4ul2 {
+    float: right;
+    margin-top: 4.3rem;
+}
+.ui4con .web4ul2 div {
+    width: 100%;
+    height: 0.87rem;
+    overflow: hidden;
+    background: url(../img/web4back2.png) center center no-repeat;
+    background-size: 4.65rem;
+    background-position: 0rem 0;
+    font-size: 0.45rem;
+    line-height: 0.87rem;
+    color: #fff;
+    font-weight: 600;
+    padding-left: 0.5rem;
+    float: left;
+    box-sizing: border-box;
+}
+.ui4con .web4ul2 li p {
+	display: block;
+    width: 4.5rem;
+    height: auto;
+    overflow: hidden;
+    border: 1px solid #00a8ff;
+    font-size: 0.36rem;
+    color: #333;
+    line-height: 0.51rem;
+    padding: 0.24rem;
+    text-align: justify;
+    margin-top: -0.02rem;
+    word-break: break-all;
+    box-sizing: border-box;
+    margin-left: 0.15rem;
+}
+.ui1con .web4qian{
+	top: 20.5rem;
+}
+.ui5{
+	background: #1b1d32;
+}
+.ui5-list-26{
+	height: 19rem;
+	margin-top:0rem;
+}
+.web5top {
+    width: 100%;
+    height: 6.5rem;
+    overflow: hidden;
+    position: relative;
+}
+.zhiw {
+    width:4.06rem;
+    height: 0.75rem;
+    text-align: center;
+    line-height:0.75rem;
+    font-size: 0.39rem;
+    color: #fff;
+    border-radius: 0.6rem;
+    position: absolute;
+}
+.zhiw1 {
+    background: #f2a111;
+    left: 0rem;
+    bottom: 3.6rem;
+}
+.zhiw2 {
+    width: 2.5585rem;
+    background: #00c298;
+    left: 1.806rem;
+    top: 0.6rem;
+}
+.zhiw3 {
+    background: #f87844;
+    right: 0.6rem;
+    top: 0.75rem;
+}
+.zhiw4 {
+    background: #00baff;
+    right: 0rem;
+    bottom: 3.61rem;
+}
+.web5zhuan {
+    width: 2.5rem;
+    height: 2.5rem;
+    border-radius: 50%;
+    border: 2px solid #00c298;
+    position: absolute;
+    top: 6rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    box-sizing: border-box;
+    box-sizing: content-box!important;
+    animation: zhuan 1s infinite linear;
+}
+
+.web5zl {
+    width: 2.3rem;
+    height: 2.3rem;
+    border-radius: 50%;
+    border: 2px dashed #00c298;
+    margin: 0.1rem;
+     box-sizing: border-box;
+}
+.xiaoren {
+    width: 1.86rem;
+    height: 2.91rem;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 4.5rem;
+}
+.xiaoren img {
+    width: 100%;
+    height: 100%;
+}
+.web5line {
+    width: 2px;
+    height: 1.03rem;
+    position: absolute;
+    left: 0;
+  	right:0;
+  	margin: auto;
+  	margin-top: -0.5rem;
+    background: #00c298;
+}
+.web5foot {
+    width: 100%;
+    height: 5.63rem;
+    border: 1px solid #00c298;
+    margin-top: 0.5rem;
+}
+.web5btit {
+    width: 4.45rem;
+    height: 0.96rem;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: -0.5rem;
+    background: #00c298;
+    overflow: hidden;
+}
+.web5tli {
+    width: 4.35rem;
+    height: 0.8rem;
+    /*margin: 0.8rem;*/
+    color: #1b1d32;
+    font-size: 0.32rem;
+    text-align: center;
+    line-height: 0.8rem;
+    border: 1px dashed #fff;
+}
+.web5foot ul {
+    width: 9.63rem;
+    height: 5.26rem;
+    overflow: hidden;
+    margin: 0.45rem auto;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.web5foot li {
+    width: 90%;
+    height: 1.05rem;
+    border-bottom: 1px dashed #00c298;
+    /*overflow: hidden;*/
+    margin: 0 auto;
+    margin-left: 5%;
+}
+.web5foot li:last-child {
+    width: 90%;
+    height: 1.05rem;
+    border-bottom:0;
+    /*overflow: hidden;*/
+    margin: 0 auto;
+    margin-left: 5%;
+}
+.web5foot a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    font-size: 0.45rem;
+    line-height: 1.05rem;
+}
+.web {
+    width: 100%;
+    height: 3.6rem;
+    overflow: hidden;
+}
+.web .floor2 {
+    width: 2.6rem;
+    height: 2.6rem;
+    margin: 0.45rem auto;
+    margin-bottom: -0.45rem;
+}
+.web .floor2 img {
+    width: 100%;
+}
+.footer .contact-list{
+	width: 100%;
+    height: 100%;
+    background: #e7e7e7;
+}
+.footer .contact-list a{
+	width: 30%;
+    height: 1.28rem;
+    float: left;
+    text-decoration: none;
+}
+.footer .contact-list a div{
+	width: 100%;
+    height: 100%;
+    font-size: 0.34rem;
+    color: #000;
+    text-align: center;
+    line-height: 1.28rem;
+    background: #e7e7e7;
+}
+.footer .contact-list .phone{
+    width: 40%;
+    height: 1.28rem;
+    position: relative;
+    z-index: 99999;
+    box-shadow: 0 0 0.12rem rgba(255,126,0,0.1);
+    margin-top: -0.15rem;
+}
+.footer .contact-list .phone .part2{
+    background-color: #ff8d12;
+    border-radius: 0.08rem;
+    color: #fff;
+    text-align: center;
+    box-shadow: 0px 0px 0.15rem #ff8d12;
+}
+.zhan{
+	width: 100%;
+	height: 1.28rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@keyframes zhuan{
+	from{
+		transform: rotateZ(0);
+		
+	}
+	to{
+		transform: rotateZ(360deg);
+	}
+}

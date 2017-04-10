@@ -1,0 +1,683 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.list-banner .swiper-container{
+	background: url(../img/qzbanner.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	display: block;
+	width: 100%;
+	height: 7.2rem;
+}
+.list-banner .swiper-container div img{
+	background:none;
+}
+.ui1H {
+    width: 100%;
+    height: 1.5rem;
+    background: #fff;
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.2);
+    padding: 0.21rem 0;
+    margin: 0 auto;
+    margin-bottom: 0.45rem;   
+    background: url(../img/qztitleback.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui {
+    width: 100%;
+    position: relative;
+    background: #f5f5f5;
+}
+.ui1 {
+    height: 11.1rem;
+}
+.ui div h2{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 10.8rem;
+    height: 0.6rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-size: 0.6rem;
+    color: #333;
+    text-transform: uppercase;
+    margin-top: 0.1rem;
+}
+.ui div h2 span{
+	font-weight: 400;
+}
+.ui div h2:last-child{
+	font-size: 0.3rem;
+	line-height: 0.3rem;
+	margin-top: 0;
+}
+.ui .ui1H .uiH2{
+	width: 7.97rem;
+    height: 0.45rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/qztitleline.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui1cons {
+    background: url(../img/qz1back.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui1 .ui1con {
+    height: 8.77rem;
+    margin: 0 auto;
+    width: 100%;
+    margin: 0;
+}
+.qzdy {
+    width: 100%;
+    height: 5rem;
+    overflow: hidden;
+}
+.qzdy p {
+    width: 100%;
+    height: auto;
+    color: #333;
+    font-size: 0.37rem;
+    text-align: center;
+    line-height: 0.53rem;
+    letter-spacing: -1px;
+}
+.qzdy p span {
+    color: #01b5ff;
+    font-weight: 600;
+}
+.ui0 {
+    width: 100%;
+    height:9.9rem;
+    background: #1b1d32;
+}
+.ui1-body ul li:nth-child(1) div:first-child{
+	background: none;
+	color: #000;
+	padding: 0;
+	text-align: center;
+	border: 0;
+}
+.ui1-body ul li:nth-child(2) div:first-child{
+	background: none;
+	color: #000;
+	padding: 0;
+	text-align: center;
+}
+.ui1-body ul li:nth-child(3) div:first-child{
+	background: none;
+	color: #000;
+	padding: 0;
+	text-align: center;
+}
+.ui1-body ul li:nth-child(4) div:first-child{
+	background: none;
+	color: #000;
+	padding: 0;
+	text-align: center;
+}
+.ui1-body ul li:nth-child(5) div:first-child{
+	background: none;
+	color: #000;
+	padding: 0;
+	text-align: center;
+}
+.ui1-body ul li:nth-child(6) div:first-child{
+	background: none;
+	color: #000;
+	padding: 0;
+	text-align: center;
+}
+.ui1-body ul li div:last-child{
+	border: 0;
+	margin-top:-0.4rem;
+}
+.ui1con ul li div{
+	color: #000;
+}
+.ui1con ul li{
+	width: 3rem;
+	height: 3rem;
+}
+.ui1-body ul {
+	height: 7rem;
+	}
+.ui1con ul li:nth-child(1){
+	background: url(../img/qzfw1.png) center center no-repeat;
+    background-size: cover;
+}
+.ui1con ul li:nth-child(2){
+	background: url(../img/qzfw2.png) center center no-repeat;
+    background-size: cover;
+}
+.ui1con ul li:nth-child(3){
+	background: url(../img/qzfw3.png) center center no-repeat;
+    background-size: cover;
+}
+.ui1con ul li:nth-child(4){
+	background: url(../img/qzfw4.png) center center no-repeat;
+    background-size: cover;
+}
+.ui1con ul li:nth-child(5){
+	background: url(../img/qzfw5.png) center center no-repeat;
+    background-size: cover;
+}
+.ui1con ul li:nth-child(6){
+	background: url(../img/qzfw6.png) center center no-repeat;
+    background-size: cover;
+}
+.ui5 {
+    background: url(../img/webkcback.png) center center repeat;
+    padding-bottom: 0.75rem;
+    height: 12.39rem;
+    overflow: hidden;
+    margin-top: 0;
+}
+.ui5con {
+	width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.ui5con div {
+    position: absolute;
+}
+.qzzw1 {
+    background: url(../img/qzzw1.png) center center no-repeat;
+    background-size: 100%;
+    height: 3.68rem;
+    width: 1.3rem;
+    top: 1rem;
+}
+.qzzw2 {
+    background: url(../img/qzzw2.png) center center no-repeat;
+    background-size: 100%;
+    height: 3.75rem;
+    width: 3.75rem;
+    top: 2.13rem;
+    left: 2.8rem;
+}
+.qzzw3 {
+    background: url(../img/qzzw3.png) center center no-repeat;
+    background-size: 100%;
+    height: 2.56rem;
+    width: 2.56rem;
+    top: 0rem;
+    left: 5.23rem;
+}
+.qzzw4 {
+    background: url(../img/qzzw4.png) center center no-repeat;
+    background-size: 100%;
+    height: 1.96rem;
+    width: 1.96rem;
+    top: 5.61rem;
+    left: 8.05rem;
+}
+.qzzw5 {
+    background: url(../img/qzzw5.png) center center no-repeat;
+    background-size: 100%;
+    height: 2.45rem;
+    width: 2.45rem;
+    top: 4.82rem;
+    left:0.43rem;
+}
+.qzzw6 {
+    background: url(../img/qzzw6.png) center center no-repeat;
+    background-size: 100%;
+    height: 2.65rem;
+    width: 2.65rem;
+    top: 6.67rem;
+    left: 4.57rem;
+}
+.qzzw7 {
+    background: url(../img/qzzw7.png) center center no-repeat;
+    background-size: 100%;
+    height: 2.9rem;
+    width: 2.9rem;
+    top: 1.27rem;
+    left: 7.73rem;
+}
+.qzzw8 {
+    background: url(../img/qzzw8.png) center center no-repeat;
+    background-size: 100%;
+    height: 3rem;
+    width: 0.8rem;
+    top: 4.05rem;
+    left: 10rem;
+}
+.qzzw9 {
+	border-radius: 50%;
+    background: #ff7616;
+    background-size: 100%;
+    height: 1.45rem;
+    width: 1.45rem;
+    top: 3.3rem;
+    left: 1.23rem;
+}
+.qzzw10 {
+	border-radius: 50%;
+    background: #ffd906;
+    background-size: 100%;
+    height: 1.58rem;
+    width: 1.58rem;
+    top: 7.47rem;
+    left: 1.21rem;
+}
+.qzzw11 {
+	border-radius: 50%;
+    background: #ff7474;
+    background-size: 100%;
+    height: 1.6rem;
+    width: 1.6rem;
+    top: 6rem;
+    left: 3rem;
+}
+.qzzw12 {
+	border-radius: 50%;
+    background: #8366ff;
+    background-size: 100%;
+    height: 1.65rem;
+    width: 1.65rem;
+    top: 5.2rem;
+    left: 6.1rem;
+}
+.qzzw13 {
+	border-radius: 50%;
+    background: #79e179;
+    background-size: 100%;
+    height: 1.3rem;
+    width: 1.3rem;
+    top: 3.7rem;
+    left: 6.64rem;
+}
+.qzzw14 {
+	border-radius: 50%;
+    background: #ffd906;
+    background-size: 100%;
+    height: 0.7rem;
+    width: 0.7rem;
+    top: 4.3rem;
+    left: 8.5rem;
+}
+.ui2{
+    height: 15rem;
+    background: #1b1d32;
+    margin: 0;
+}
+.ui2box {
+    width: 100%;
+    height: 10rem;
+    background: #1b1d32;
+    margin-top: 0;
+    padding-top: 0;
+}
+.ui2bfb {
+    width: 90%;
+    height: 8rem;
+    margin: 0 auto;
+    background: url(../img/qzbili.png) center center no-repeat;
+    background-size: 100%;
+    margin-top: 0.7rem;
+    margin-bottom: 0.7rem;
+    /*margin-left: 100%;*/
+}
+.ui2bt-list-qz{
+	width: 5.56rem;
+    color: #00c298;
+    border: 0;
+}
+.ui2tiao{
+	width: 5.6rem;
+	height: 1px;
+	background: #fff;
+	box-sizing: border-box;
+	margin-top: 0.1rem;
+}
+.ui2dian{
+	width: 5.6rem;
+	height: 1px;
+	border-top: 1px dashed #fff;
+	margin-top: 0.1rem;
+}
+.btn {
+    display: block;
+    width: 4.5rem;
+    height: 1.204rem;
+    margin: 0.6rem auto;
+    background: url(../img/qzanniu.png) center center no-repeat;
+    background-size: 100%;
+    color: #fff;
+    text-align: center;
+    line-height: 1.204rem;
+    font-size: 0.45rem;
+}
+.ui3{
+    height: 11.5rem;
+    background: #f5f5f5;
+    margin: 0;
+}
+.ui3 .stu_lists{
+	width: 90%;
+}
+.title_name p:nth-child(1) {
+    background: #49d8bc;
+}
+.title_name p:nth-child(2) {
+    background: #39ceb1;
+}
+.title_name p:nth-child(3) {
+    background: #22c4a4;
+}
+.ui4{
+	height: 17.5rem;
+    background: #1b1d32;
+    margin: 0;
+}
+.ui4con {
+    position: relative;
+    margin-top: 0.6rem;
+    height: 17.5rem;
+}
+.ui4con .ui4-web4ul1 {
+    width: 95%;
+    height: 100%;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    list-style: none ;
+    margin: 0 auto;
+}
+.ui4con ul{
+	list-style: none;
+}
+.ui4con ul li {
+    width: 100%;
+    height: 2.17rem;
+    overflow: hidden;
+    /*padding: 0.1rem;*/
+    padding-bottom: 0;
+    padding-top: 0;
+    background: transparent;
+    margin: 0;
+}
+.php41{
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.php41 img{
+	height: 1.2rem;
+    width: 1.2rem;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.php41 img:last-child{
+	animation: zhuan 2s infinite linear;
+}
+.php42{
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.php42 img{
+	height: 1.2rem;
+    width: 1.2rem;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.php43{
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.php43 img{
+	height: 1.2rem;
+    width: 1.2rem;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.php44{
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.php44 img{
+	height: 1.2rem;
+    width: 1.2rem;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.php45{
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.php45 img{
+	height: 1.2rem;
+    width: 1.2rem;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.php46{
+    width: 1.2rem;
+    height: 1.2rem;
+    float: left;
+    overflow: hidden;
+    position: relative;
+}
+.php46 img{
+	height: 1.2rem;
+    width: 1.2rem;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.phpxuhao {
+    width: 0.77rem;
+    height: 0.77rem;
+    border: 2px solid #ffd300;
+    text-align: center;
+    line-height: 0.75rem;
+    font-size: 0.45rem;
+    color: #fff;
+    box-sizing: border-box;
+}
+.php4line {
+    width: 1px;
+    height: 1.39rem;
+    background: #ffd300;
+    margin: 0 auto;
+}
+.php4r {
+    width: 8.65rem;
+    height: 2.14rem;
+    float: left;
+    margin-left: 0.1rem;
+    
+}
+.php4rcon {
+    width: 100%;
+    height: 100%;
+    margin-left: 0;
+}
+.ui4con ul li{
+	border-top: 0;
+}
+.ui41 span {
+    font-size: 0.42rem;
+    color: #ffd300;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui4 .ui4-web4ul1 li p {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin-top: 0.15rem;
+    font-size: 0.33rem;
+    color: #fff;
+    line-height: 0.5rem;
+    padding: 0.15rem 0;
+    text-align: justify;
+   	letter-spacing: 0; 
+   	border: 0;
+}
+.phpxuhao2 {
+    border: 2px solid #dd534e;
+}
+.phpxuhao3 {
+    border: 2px solid #87bf7f;
+}
+.phpxuhao4 {
+    border: 2px solid #1fa4db;
+}
+.phpxuhao5 {
+    border: 2px solid #f6ce64;
+}
+.phpxuhao6 {
+    border: 2px solid #a86baa;
+}
+.ui42 span {
+    font-size: 0.42rem;
+   	color: #dd534e;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui43 span {
+    font-size: 0.42rem;
+   	color: #87bf7f;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui44 span {
+    font-size: 0.42rem;
+   	color: #1fa4db;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui45 span {
+    font-size: 0.42rem;
+   	color: #f6ce64;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui46 span {
+    font-size: 0.42rem;
+   	color: #a86baa;
+    margin: 0;
+    padding: 0;
+    margin-top: 0.15rem;
+}
+.ui4 .ui4-web4ul1 .ui42 p {
+    border-top: 1px dashed #dd534e;
+}
+.ui4 .ui4-web4ul1 .ui41 p {
+    border-top: 1px dashed #ffd300;
+}
+.ui4 .ui4-web4ul1 .ui43 p {
+    border-top: 1px dashed #87bf7f;
+}
+.ui4 .ui4-web4ul1 .ui44 p {
+    border-top: 1px dashed #1fa4db;
+}
+.ui4 .ui4-web4ul1 .ui45 p {
+    border-top: 1px dashed #f6ce64;
+}
+.ui4 .ui4-web4ul1 .ui46 p {
+    border-top: 1px dashed #a86baa;
+}
+.ui4con .ui42 {
+    height: 2.6rem;
+}
+.ui42 .php4line {
+    height: 1.81rem;
+}
+.ui4con .ui43 {
+    height: 2.9rem;
+}
+.ui43 .php4line {
+    height: 2.16rem;
+}
+.ui4con .ui44 {
+    height: 2rem;
+}
+.ui44 .php4line {
+    height: 1.43rem;
+}
+.ui4con .ui45 {
+    height: 1.9rem;
+}
+.ui45 .php4line {
+    height: 1.2rem;
+}
+.ui4con .ui46 {
+    height: 2.4rem;
+}
+.ui46 .php4line {
+    height: 1.43rem;
+}
+.ui4con ul li:nth-child(1){
+	background: none;
+}
+.ui4con ul li:nth-child(2){
+	background: none;
+}
+.ui4con ul li:nth-child(3){
+	background: none;
+}
+.ui4con ul li:nth-child(4){
+	background: none;
+}
+.ui4con ul li:nth-child(5){
+	background: none;
+}
+.ui4con ul li:nth-child(6){
+	background: none;
+}
+.qzyyk {
+    width: 100%;
+    height: 1.50rem;
+    background: url(../img/qzyyk.png) center center no-repeat;
+    background-size: 100%;
+}
+@keyframes zhuan{
+	from{
+		transform: rotateZ(0);
+		
+	}
+	to{
+		transform: rotateZ(360deg);
+	}
+}

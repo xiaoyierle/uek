@@ -1,0 +1,812 @@
+.body{
+	font-size: 16px;
+    font-family: "苹方","微软雅黑", "Helvetica";
+    color: #999;
+}
+.list-box{
+	width:  10.8rem;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.header .list-box>ul{
+	margin: 0;
+	border: 0;
+	padding: 0;
+	list-style: none;
+	overflow: hidden;
+	width: 10.8rem;
+	font-size: 0.47rem;
+	font-weight: 700;
+}
+.header .list-box>ul>li{
+	width: 20%;
+	float: left;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+.header .list-box>ul>li>a{
+	color: #fff;
+	line-height: 1.3rem;
+}
+.list-banner .swiper-container{
+	width: 100%;
+	height:7.2rem;
+}
+.list-banner .swiper-container{
+	background: url(../img/uibanner.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	display: block;
+	width: 100%;
+	height: 7.2rem;
+}
+.list-banner .swiper-container div img{
+	display: block;
+	width: 100%;
+	height: 7.2rem;
+	background: url(../img/uibanners.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;	
+	display: block;
+	width: 100%;
+	height: 5.9rem;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.list-banner .swiper-container div{
+	position: relative;
+	width: 100%;
+	height: 7.2rem;
+}
+.list-header{
+	background: rgba(0,123,227,.5);
+	z-index: 100;
+	width: 10.8rem;
+}
+.ui{
+	width: 10.8rem;
+    position: relative;
+}
+.ui1-title{
+	width: 10.8rem;
+	height: 1.23rem;
+	margin: 0.55rem 0;
+}
+.ui0 .ui1con .ui1-title h2{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 10.8rem;
+    height: 0.5rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-size: 0.48rem;
+    color: #333;
+    text-transform: uppercase;
+}
+.ui1-title h2 span{
+	font-weight: 400;
+}
+.ui1-title .uiH2{
+	width: 3.89rem;
+    height: 0.1rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/ui1lines.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui1-title h2:last-child{
+	font-size: 0.465rem;
+	line-height: 0.465rem;
+}
+.ui1-body{
+	width: 100%;
+	height: 8.75rem;
+}
+.ui1-body ul li{
+	width: 3rem;
+	height: 3.5rem;
+	/*background: red;*/
+}
+.ui1-body ul{
+	height: 8.75rem;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items:center;
+}
+.ui1-body ul li div:first-child{
+	width: 100%;
+}
+.ui1-body ul li div:first-child{
+	width: 100%;
+	height: 1.42rem;
+	background-image: url(../img/fwtx1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #fff;
+    font-size: 0.39rem;
+    line-height: 1.42rem;
+    font-weight: 600;
+    padding-left: 1.15rem;
+    box-sizing: border-box;
+}
+.ui1-body ul li:nth-child(2) div:first-child{
+	background-image: url(../img/fwtx2.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ui1-body ul li:nth-child(3) div:first-child{
+	background-image: url(../img/fwtx3.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ui1-body ul li:nth-child(4) div:first-child{
+	background-image: url(../img/fwtx4.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ui1-body ul li:nth-child(5) div:first-child{
+	background-image: url(../img/fwtx5.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ui1-body ul li:nth-child(6) div:first-child{
+	background-image: url(../img/fwtx6.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ui1-body ul li div:last-child{
+	width: 100%;
+	height: 2rem;
+	margin-top: 0.07rem;
+	border: 0.03rem dashed #f2a111;
+	box-sizing: border-box;
+	text-align: center;
+	padding-top:0.3rem;
+	line-height: 0.48rem;
+	font-size: 0.35rem;
+}
+.ui1{
+	height: 12.5em;
+	overflow: hidden;
+}
+.ui1 .ui3H{
+	width: 100%;
+    height: 1.9565rem;
+    margin: 0 auto;
+    padding: 0.602rem 0;
+    background: url(../img/uititle1.png) center center no-repeat;
+    background-size: 100%;
+    position: relative;
+    z-index: 20;
+}
+.ui div h2{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 10.8rem;
+    height: 0.5rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-size: 0.48rem;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 0.6rem;
+}
+.ui div h2 span{
+	font-weight: 400;
+}
+.ui div h2:last-child{
+	font-size: 0.465rem;
+	line-height: 0.465rem;
+	margin-top: 0;
+}
+.ui1 .ui3H div{
+	width: 3.89rem;
+    height: 0.1rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/ui2lines.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui1 .ui1con{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.ui1 .ui1con .ui1cont{
+	width: 100%;
+    height: 4.74rem;
+    border: 1px dashed #030000;
+    background: #f5f5f5;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.ui1 .ui1con .ui1cont p {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    line-height: 0.54rem;
+    color: #333;
+    font-size: 0.39rem;
+    margin-top: 0.15rem;
+}
+.ui1cont p:first-child {
+    margin-bottom: 0.15rem;
+}
+.ui1cont p span {
+    color: #00a8ff;
+    font-weight: 600;
+}
+.ui1 .ui1con .ui1B {
+    width: 100%;
+    height: 5.22rem;
+    background: url(../img/ui11s.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui2 .ui2H{
+	width: 100%;
+    height: 1.9565rem;
+    margin: 0 auto;
+    padding: 0.2rem 0;
+    background: url(../img/uititle2.png) center center no-repeat;
+    background-size: 100%;
+    position: relative;
+    z-index: 20;
+}
+.ui2 .ui2H div{
+	width: 3.89rem;
+    height: 0.1rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/ui2lines.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui2 {
+    margin-top: -1.8em;
+    height: 20.6rem;
+}
+.ui2box{
+    width: 100%;
+    height:17.5rem;
+    background: #1b1d32;
+    margin-top: -1.8rem;
+    padding-top: 1.8rem;
+}
+.ui2bt {
+    width: 3.7rem;
+    height: 0.6rem;
+    margin: 0 auto;
+    padding: 0.2rem;
+    padding-top: 0;
+    text-align: center;
+    line-height: 0.6rem;
+    font-size: 0.45rem;
+    border-bottom: 1px dashed #fff;
+    position: relative;
+    color: #f5f5f5;
+}
+.ui2bfb {
+    width: 10.56rem;
+    height: 6.23rem;
+    margin: 0 auto;
+    background: url(../img/bfb.png) center center no-repeat;
+    background-size: 100%;
+    margin-top: 0.37rem;
+    position: relative;
+}
+.ui2bfb div{
+	overflow: hidden;
+	height: 0.47rem;
+    position: absolute;
+    left: 1.65rem;
+}
+.bfb1 {
+	width: 1.18rem;
+    top: 0.7rem;
+    background: #fff100;
+}
+.bfb2 {
+	width: 1.87rem;
+    top: 1.62rem;
+    background: #1dffbd;
+}
+.bfb3 {
+	width: 7rem;
+    top: 2.54rem;
+    background: #0c51ff;
+}
+.bfb4 {
+	width: 4rem;
+    top: 3.46rem;
+    background: #00a8ff;
+}
+.bfb5 {
+	width: 1.3rem;
+    top: 4.38rem;
+    background: #1befe8;
+}
+.ui2 .pjxx{
+	width: 100%;
+	height: 6.85rem;
+	margin: 0 auto;
+}
+.ui2 .pjxx .ul1{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	height: 6.85rem;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	position: absolute;
+	left: 0;
+	margin: 0 auto;
+}
+.ui2 .pjxx .ul1 li{
+	width: 4.92rem;
+	height: 3.27rem;
+	padding-top: 0.14rem;
+    overflow: hidden;
+    background: url(../img/ui2back.png) center center no-repeat;
+    background-size: 100%;
+    margin-top: 0.28rem;
+}
+.pjxx p{
+	font-size: 0.36rem;
+    line-height: 0.6rem;
+    text-align: center;
+    color: #fff;
+    width: 100%;
+    height: 2.51rem;
+    overflow: hidden;
+}
+.pjxx span {
+    display: block;
+    width: 100%;
+    font-size: 0.45rem;
+    line-height: 0.6rem;
+    text-align: center;
+    color: #fff;
+}
+.btn1{
+    display: block;
+    width: 4.5rem;
+    height: 1.204rem;
+    margin: 0.6rem auto;
+    background: url(../img/btn.png) center center no-repeat;
+    background-size: 100%;
+    color: #fff;
+    text-align: center;
+    line-height: 1.204rem;
+    font-size: 0.45rem;
+}
+.ui3{
+	margin-top: -2rem;
+	width: 100%;
+    position: relative;
+}
+.ui3 .ui3H{
+	width: 100%;
+    height: 1.9565rem;
+    margin: 0 auto;
+    padding: 0.602rem 0;
+    background: url(../img/uititle1.png) center center no-repeat;
+    background-size: 100%;
+    position: relative;
+    z-index: 20;
+}
+.ui3 .ui3H div{
+	width: 3.89rem;
+    height: 0.1rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/ui2lines.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui3 .ui1con{
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.stu_lists {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 0.6rem;
+}
+.title_name{
+	width: 100%;
+    height: 0.9rem;
+}
+.title_name p {
+    color: #fff;
+    font-size: 0.4rem;
+    line-height: 0.9rem;
+    height: 0.9rem;
+    border-radius: 0.15rem 0.15rem 0 0;
+    background: #40abfd;
+    float: left;
+    overflow: hidden;
+    text-align: center;
+    width: 15%;
+}
+.title_name p:nth-child(2) {
+    width: 25%;
+    background: #219eff;
+}
+.title_name p:nth-child(3) {
+    width: 60%;
+    background: #118ded;
+	 float: left;
+}
+.stu_lists .big-box{
+	width: 100%;
+	border: 1px solid #1875ff;
+	/*height: rem;*/
+	box-sizing: border-box;
+	margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+.big-box ul {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 0;
+    list-style: NONE;
+    padding: 0;
+}
+.big-box li {
+    width: 100%;
+    height: 1.05rem;
+    overflow: hidden;
+    background: rgb(238, 238, 238);
+    margin: 0;
+    padding: 0;
+}
+.big-box li p {
+    height: 1.05rem;
+    overflow: hidden;
+    float: left;
+    font-size: 0.39rem;
+    color: #666;
+    line-height:1.05rem;
+    text-align: center;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+.big-box li .ld-moneycolor {
+    color: #feaf34;
+    width: 2.7rem;
+    text-transform: uppercase;
+}
+.big-box li:nth-child(2n){
+	background: #ccc;
+}
+.stu_welfare {
+    width:5.6rem;
+}
+.ui4 .ui4H{
+	width: 100%;
+    height: 1.95rem;
+    margin: 0 auto;
+    padding: 0.602rem 0;
+ 	background: url(../img/uititle3.png) center center no-repeat;
+    background-size: 100%;
+    position: relative;
+    z-index: 20;
+}
+.ui4 {
+    background: url(../img/ui4back.png) center center repeat;
+    background-size: 100%;
+    width: 100%;
+    position: relative;
+    box-sizing: border-box;
+}
+.ui4 .ui4H div{
+	width: 3.89rem;
+    height: 0.1rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/ui2lines.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui4con ul{
+	margin: 0;
+	padding: 0;
+	width: 90%;
+	margin: 0 auto;
+}
+.ui4con li {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background: #fff;
+    margin-top: 0.6rem;
+    margin-left: 0 auto;
+}
+.ui41 {
+    border-top: 2px solid #f88c00;
+}
+.ui42 {
+    border-top: 2px solid #32afff;
+}
+.ui43 {
+    border-top: 2px solid #eb6877;
+}
+.ui44 {
+    border-top: 2px solid #f88c00;
+}
+.ui45 {
+    border-top: 2px solid #22ac38;
+}
+.ui46 {
+    border-top: 2px solid #ea61d5;
+}
+.ui4con span {
+    display: block;
+    width: 100%;
+    height: auto;
+    color: #333;
+    overflow: hidden;
+    font-size: 0.45rem;
+    padding: 0.15rem 0.3rem;
+    margin-top: 0.3rem;
+    line-height: 0.45rem;
+}
+.ui4con p {
+    width: 95%;
+    height: auto;
+    padding: 0.3rem;
+    overflow: hidden;
+    margin-top: 0.22rem;
+    border-top: 1px dashed #a0a0a0;
+    font-size: 0.39rem;
+    line-height: 0.54rem;
+    text-align: justify;
+    color: #666;
+    letter-spacing: 1px;
+}
+.ui5 {
+    margin-top: -0.5rem;
+}
+.ui5 .ui5H{
+	width: 100%;
+    height: 1.9565rem;
+    margin: 0 auto;
+    padding: 0.2rem 0;
+    background: url(../img/uititle2.png) center center no-repeat;
+    background-size: 100%;
+    position: relative;
+    z-index: 20;
+}
+.ui5 div h2{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 10.8rem;
+    height: 0.5rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-size: 0.48rem;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 0.6rem;
+}
+.ui5 div h2 span{
+	font-weight: 400;
+}
+.ui5 div h2:last-child{
+	font-size: 0.465rem;
+	line-height: 0.465rem;
+	margin-top: 0;
+}
+.ui5 .ui5H div{
+	width: 3.89rem;
+    height: 0.1rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/ui2lines.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui5con ul {
+    width: 100%;
+    height: 3.95rem;
+    overflow: hidden;
+    margin-top: 0.15rem;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ui5con li {
+    width: 50%;
+    margin-right: 0.15rem;
+    height: 3.95rem;
+    overflow: hidden;
+    float: left;
+    box-sizing: border-box;
+}
+.ui51 .ui5li1 {
+    background: url(../img/ui51.png) center center no-repeat;
+    background-size: 100%;
+    margin: 0;
+    /*box-sizing: border-box;*/
+}
+.ui51 .ui5li2 {
+    background: url(../img/ui52.png) center center no-repeat;
+    background-size: 100%;
+    margin-right: 0;
+    float: left;
+}
+.ui52 li {
+    width: 10.56rem;
+    background: url(../img/ui53.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui5con {
+    width: 90%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 0.75rem;
+}
+.ui53 .ui5li4 {
+    background: url(../img/ui54.png) center center no-repeat;
+    background-size: 100%;
+    margin:0 ;
+    padding-right: 0.15rem;
+    box-sizing: border-box;
+}
+.ui53 .ui5li5 {
+    background: url(../img/ui55.png) center center no-repeat;
+    background-size: 100%;
+    margin-right: 0;
+}
+.ui6H{
+	width: 100%;
+    height: 1.95rem;
+    margin: 0 auto;
+    padding: 0.6rem 0;
+    background: url(../img/uititle1.png) center center no-repeat;
+    background-size: 100%;
+    position: relative;
+    z-index: 20;
+    margin-top: 0.75rem;
+}
+.ui6 div h2{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	width: 10.8rem;
+    height: 0.5rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-size: 0.48rem;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 0.6rem;
+}
+.ui6 div h2 span{
+	font-weight: 400;
+}
+.ui6 div h2:last-child{
+	font-size: 0.465rem;
+	line-height: 0.465rem;
+	margin-top: 0;
+}
+.ui6 .ui6H div{
+	width: 3.89rem;
+    height: 0.1rem;
+    margin: 0 auto;
+    position: relative;
+    background: url(../img/ui2lines.png) center center no-repeat;
+    background-size: 100%;
+}
+.ui6con p {
+    width: 100%;
+    height: 0.85rem;
+    font-size: 0.45rem;
+    color: #333;
+    text-align: center;
+    line-height: 0.85rem;
+    font-weight: 600;
+}
+.ui6 form {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.ui6　.box .sub>div{
+	height: 1rem;
+	border-radius: 0.5rem;
+	margin: 0 auto;
+	padding-left: 1rem;
+}
+.biankuang input{
+	display: inline-block;
+	width: 4rem;
+	height: 1rem;
+	margin: 0 auto;
+	border: 0;
+	outline: 0;
+	margin-left: -1rem;
+	font-size: 0.32rem;
+}
+.biankuang input.inputkuang{
+	background: url(../img/input.png) center center no-repeat;
+    background-size: 100%;
+        text-indent: 1em;
+        margin-left: 0;
+}
+.biankuang label{
+	display: inline-block;
+	width: 2rem;
+	height: 1rem;
+	margin: 0 auto;
+	border: 0;
+	outline: 0;
+}
+.biankuang .xuanze{
+	display: inline-block;
+	width: 4rem;
+	height: 1rem;
+	margin: 0 auto;
+	border: 0;
+	outline: 0;
+}
+.biankuang select{
+	display: inline-block;
+	width:3rem;
+	height: 1rem;
+	margin: 0 auto;
+	border: 0;
+	outline: 0;
+	font-size: 0.32rem;
+}
+.biankuang{
+	margin: 0 auto;
+		padding-left: 2rem;
+}
+.submit input {
+    display: block;
+    width: 4.5rem;
+    height: 1.2rem;
+    text-indent: 0;
+    color: #fff;
+    background: url(../img/btn.png) center center no-repeat;
+    background-size: 100%;
+    text-align: center;
+    line-height: 1.2rem;
+    outline: none;
+    border: none;
+    font-size: 0.45rem;
+}
+.submit{
+	margin-left:3rem;
+}
+.tea-copyright {
+    width: 100%;
+    height:1.80rem;
+    font-size: 0.3rem;
+    overflow: hidden;
+}
+.tea-copyright p {
+    color: #666;
+    font-size: 0.2rem;
+    text-align: center;
+    padding-top: 0.18rem;
+    box-sizing: border-box;
+}
